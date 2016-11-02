@@ -50,9 +50,9 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "#tickets", text: "Comprar Ingresso"}
+  - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
 rightNavigationButtons:
- - {link: "#tickets", text: "Comprar Ingresso"}
+  - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
 
 # Hero Block
 heroImage: "teste.jpg"

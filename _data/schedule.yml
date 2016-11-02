@@ -1,0 +1,75 @@
+- 
+  date: "2016-11-17"
+  dateReadable: "17 de Outubro"
+  tracks: 
+    - {title: "Palestras", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "18:30",
+    	endTime: "21:00",
+    	sessionIds: [001]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "10:30",
+        sessionIds: [002]
+    }
+  
+- 
+  date: "2016-11-18"
+  dateReadable: "18 de Outubro"
+  tracks:
+    - {title: "Simpósio Temático", color: "#c45"}
+   
+      #  - {title:"Oficina",color:"#aed"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "12:00",
+    	sessionIds: [103,104]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "12:00",
+    	sessionIds: [103,104]
+    }
+
+- 
+  date: "2016-11-18"
+  dateReadable: "18 de Outubro"
+  tracks:
+    - {title: "Oficina", color: "#c45"}
+      #  - {title:"Oficina",color:"#aed"}
+  timeslots:
+    - {
+      startTime: "14:00",
+      endTime: "17:00",
+    	sessionIds: [201,202]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "17:00",
+    	sessionIds: [203, 204]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "17:00",
+    	sessionIds: [205,404]
+    }
+- 
+  date: "2016-11-18"
+  dateReadable: "18 de Outubro"
+  tracks:
+    - {title: "Mesa Redonda e Assembleia", color: "#c45"}
+      #  - {title:"Oficina",color:"#aed"}
+  timeslots:
+    - {
+      startTime: "18:00",
+    	sessionIds: [302]
+    }
+    - {
+      startTime: "18:30",
+      endTime: "21:00",
+    	sessionIds: [301]
+    }
+ 

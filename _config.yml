@@ -53,7 +53,7 @@ bottomNavigationLinks:
   - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
 rightNavigationButtons:
   - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
-
+  - {link:"anpuhamazonas@gmail.com",text:"anpuhamazonas@gmail.com"}
 # Hero Block
 heroImage: "teste.jpg"
 heroTitle: " III Encontro ANPUH-AM <br><typeout> "

@@ -53,11 +53,10 @@ bottomNavigationLinks:
   - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
 rightNavigationButtons:
   - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
-  - {link:"anpuhamazonas@gmail.com",text:"anpuhamazonas@gmail.com"}
 # Hero Block
 heroImage: "teste.jpg"
 heroTitle: " III Encontro ANPUH-AM <br><typeout> "
-eventDate: "17 e 18 de Novembro de 2016"
+eventDate: "17 e 18 de Novembro de 2016<br><br><br> <a href='mailton:anpuhamazonas@gmail.com'>anpuhamazonas@gmail.com</a>"
 typeoutTextValues: '"XIII semana da Consciência Negra ", "O Estado Democrático de direito e o Respeito a Diversidade"'
 typeoutFallback: "Season"
 heroButtons:

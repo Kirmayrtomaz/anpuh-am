@@ -50,9 +50,9 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
+  - {link: "http://anpuh-am.com.br/#tickets", text: "Inscrições"}
 rightNavigationButtons:
-  - {link: "http://anpuh-am.com.br/#tickets", text: "Comprar Ingresso"}
+  - {link: "http://anpuh-am.com.br/#tickets", text: "Inscrições"}
 # Hero Block
 heroImage: "teste.jpg"
 heroTitle: " III Encontro ANPUH-AM <br><typeout> "

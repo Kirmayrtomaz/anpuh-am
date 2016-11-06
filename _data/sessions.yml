@@ -52,6 +52,13 @@
   subtype: presentation
   speakers: [7,8]
 -
+  id: 105
+  title: "Possibilidades de Pesquisa em História Indígena e do Indigenismo na Amazônia: Conexões entre Colônia, Império, República e o Tempo Presente. "
+  description: "Este simpósio temático busca reunir reflexões sobre a história indígena e do Indigenismo na Amazônia brasileira, sobretudo, naquelas que estejam amparadas em possibilidades de pesquisas que versam sobre estas temáticas, observadas nas produções historiográficas de pesquisas já concluídas ou em andamento entre os séculos XVI ao XXI. Dentre os elementos presentes nessas temáticas, preferencialmente acolheremos pesquisas relacionadas a análises que permitam evidenciar a emergência e o protagonismo das ações dos diversos grupos indígenas amazônidas, assim como as interfaces com outras áreas do conhecimento, como a Antropologia, Sociologia e Geografia, além das transformações no campo indigenista e as mobilizações políticas protagonizadas pelos próprios indígenas na Amazônia. Serão avaliados tanto trabalhos direcionados a estudos de casos específicos, quanto de fulcro historiográfico, teórico e metodológico. "  
+  subtype: presentation
+  speakers: [17,18]
+-   
+-
   id: 201
   title: "Ensino da História e história em quadrinhos"
   description: ""

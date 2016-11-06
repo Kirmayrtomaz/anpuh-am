@@ -5,7 +5,7 @@
   company: "Universidade Federal do Para"
   title: "Escravidão Negra no Grão-Pará (séculos XVII e XIX)"
   bio: ""
-  thumbnailUrl: lorem1.jpg
+  thumbnailUrl: jose_maia.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -16,7 +16,7 @@
   company: "Universidade Federal do Amazonas"
   title: ""
   bio: ""
-  thumbnailUrl: lorem2.jpg
+  thumbnailUrl: patricia.jpeg
   rockstar: true
  #   social: 
  #     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -47,7 +47,7 @@
   company: "Universidade Federal do Amazonas"
   title: "Professor"
   bio: "Hideraldo Lima da Costa é Doutor em História pela Pontifícia Universidade Católica de São Paulo.  Professor do Departamento de História da UFAM. Coordena o Programa de Extensão Nossa África." 
-  thumbnailUrl: lorem1.jpg
+  thumbnailUrl: hideraldo.jpeg
   rockstar: true 
 - 
   id: 6
@@ -74,7 +74,7 @@
   company: "SEDUC"
   title: "Professora"
   bio: "Maria de Jesus do Carmo de Araújo é mestranda em História Social no Programa de Pós-Graduação em História da UFAM. Professora da Rede Estadual de Ensino do Amazonas SEDUC-AM. "
-  thumbnailUrl: lorem2.jpg
+  thumbnailUrl: maria.jpg
   rockstar: true
 - 
   id: 9
@@ -92,7 +92,7 @@
   company: "IFAM"
   title: "Professora"
   bio: ""
-  thumbnailUrl: lorem2.jpg
+  thumbnailUrl: leticia.jpg
   rockstar: true
 - 
   id: 11
@@ -119,7 +119,7 @@
   company: "SEMED, SEDUC"
   title: ""
   bio: ""
-  thumbnailUrl: lorem2.jpg
+  thumbnailUrl: lidia.jpeg
   rockstar: true
 - 
   id: 14
@@ -147,4 +147,23 @@
   title: "Professor Doutor"
   bio: ""
   thumbnailUrl: lorem1.jpg
+  rockstar: true
+- 
+  id: 17
+  name: "Eduardo Comes da Silva Filho"
+  surname: ""
+  company: "Boas Novas,UFAM"
+  title: "Professor Especialista e Mestre"
+  bio: "Licenciado, Especialista e Mestre em História Social – PPGH/UFAM. Professor Titular Ministrante de História do Centro de Mídias – Seduc -AM. Professor da Prefeitura Municipal de Manaus, Professor e Coordenador do Curso de Pós-Graduação em História e Historiografia da Amazônia da Faculdade Boas Novas, membro GT História do trabalho - UFAM e ANPUH-AM. 
+    "
+  thumbnailUrl: eduardo_gomes.jpg
+  rockstar: true
+- 
+  id: 18
+  name: "Rafael Ale Rocha"
+  surname: ""
+  company: "UEA"
+  title: "Professor Doutor"
+  bio: "Graduado em História – UFAM. Mestre em História Social - UFF. Doutor em História Social - UFF. É professor da Universidade do Estado do Amazonas e do Programa de Pós-Graduação Interdisciplinar em Ciências Humanas (Mestrado) da Universidade do Estado do Amazonas."
+  thumbnailUrl: rafael_ale.jpg
   rockstar: true

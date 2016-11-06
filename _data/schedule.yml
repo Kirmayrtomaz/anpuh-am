@@ -26,13 +26,20 @@
     - {
     	startTime: "09:00",
     	endTime: "12:00",
-    	sessionIds: [103,104]
+    	sessionIds: [101,102]
     }
     - {
     	startTime: "09:00",
     	endTime: "12:00",
     	sessionIds: [103,104]
     }
+    - {
+    	startTime: "09:00",
+    	endTime: "12:00",
+    	sessionIds: [105,404]
+    }
+
+
 
 - 
   date: "2016-11-18"

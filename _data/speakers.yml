@@ -56,7 +56,7 @@
   company: "SEMED"
   title: "Coordenadora da Diversidade"
   bio: "Lídia Helena de Oliveira Moreira é Especialista em História, cultura africana e afro-brasileira. Assessora de História e Coordenadora da Diversidade na SEMED.  Coordenadora do Grupo de Estudo e Pesquisa em História do Amazonas – GEPHAM, e da Comissão de Estudo e Pesquisas do Fórum Permanente de Educação e Diversidade – FOPEDER e articuladora do Núcleo de Estudo e Pesquisa Interdisciplinar em Diversidade – NEPID."
-  thumbnailUrl: lorem2.jpg
+  thumbnailUrl: lidia_.jpeg
   rockstar: true
 - 
   id: 7
@@ -75,15 +75,6 @@
   title: "Professora"
   bio: "Maria de Jesus do Carmo de Araújo é mestranda em História Social no Programa de Pós-Graduação em História da UFAM. Professora da Rede Estadual de Ensino do Amazonas SEDUC-AM. "
   thumbnailUrl: maria.jpg
-  rockstar: true
-- 
-  id: 9
-  name: "Tarcísio Serpa"
-  surname: ""
-  company: "IFAM"
-  title: "Professor"
-  bio: ""
-  thumbnailUrl: lorem1.jpg
   rockstar: true
 - 
   id: 10
@@ -114,13 +105,14 @@
   rockstar: true
 - 
   id: 13
-  name: "Lídia Moreira"
+  name: "Nonato Sousa"
   surname: ""
-  company: "SEMED, SEDUC"
+  company: "Seduc"
   title: ""
   bio: ""
-  thumbnailUrl: lidia.jpeg
+  thumbnailUrl: lorem1.jpg
   rockstar: true
+-
 - 
   id: 14
   name: "Tarcísio Serpa Normando"
@@ -150,7 +142,7 @@
   rockstar: true
 - 
   id: 17
-  name: "Eduardo Comes da Silva Filho"
+  name: "Eduardo Gomes da Silva Filho"
   surname: ""
   company: "Boas Novas,UFAM"
   title: "Professor Especialista e Mestre"

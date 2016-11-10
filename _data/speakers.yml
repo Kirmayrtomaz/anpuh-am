@@ -91,8 +91,8 @@
   surname: ""
   company: "Uninorte"
   title: "Professora"
-  bio: ""
-  thumbnailUrl: lorem2.jpg
+  bio: "Nasthya Garcia possui graduação em HIstória pela Universidade Federal do Amazonas. É mestre em História Social pela mesma universidade. Suas áreas de interesse são: História Cultural e História Ambiental.  É professora de História na Semed desde 2000. De 2012 até o presente é professora do Uninorte ministrando no curso de História as disciplinas: História da América e História da África. Na mesma instituição é professora da Pós Graduação em Ensino e Pesquisa em História e ministra o módulo:  História e Natureza na Amazônia."
+  thumbnailUrl: nasthya.jpg
   rockstar: true
 - 
   id: 12
@@ -112,7 +112,6 @@
   bio: ""
   thumbnailUrl: lorem1.jpg
   rockstar: true
--
 - 
   id: 14
   name: "Tarcísio Serpa Normando"
@@ -128,8 +127,9 @@
   surname: ""
   company: "Uninorte"
   title: "Professora Mestre"
-  bio: ""
-  thumbnailUrl: lorem2.jpg
+  bio: "Formada em ciências sócias e direito,  especialização em historiografia e mestre em historia pela universidade federal do rio grande do,sul.
+    Profesora da Fsdb e Uninorte."
+  thumbnailUrl: cris.jpg
   rockstar: true
 - 
   id: 16

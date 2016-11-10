@@ -61,7 +61,7 @@ typeoutTextValues: '"XIII semana da Consciência Negra ", "O Estado Democrático
 typeoutFallback: "Season"
 heroButtons:
   #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-  - {permalink: "/#tickets", text: "Comprar Ingresso"}
+  - {permalink: "/#tickets", text: "Inscrições"}
 
 # About Block
 aboutTitle: "III Encontro ANPUH-AM"

@@ -2,26 +2,22 @@
   id: 1
   name: "José Maia Bezerra Neto"
   surname: ""
-  company: "Universidade Federal do Para"
+  company: "Universidade Federal do Pará"
   title: "Escravidão Negra no Grão-Pará (séculos XVII e XIX)"
-  bio: ""
+  bio: "Graduado em História pela UFPA. Mestre em História Social do Trabalho pela Universidade Estadual de Campinas (2000) e doutorado em História Social pela Pontifícia Universidade Católica de São Paulo (2009). Atualmente é Diretor de Assistência e Integração Estudantil/Pró-Reitoria de Extensão da UFPA e Vice-Presidente do Instituto Histórico e Geográfico do Pará. É membro do Grupo de Pesquisa: OITOCENTOS. Grupo de Pesquisa de História da Amazônia e líder do Grupo de Pesquisa Escravidão e Abolicionismo na Amazônia - GEPEAM."
   thumbnailUrl: jose_maia.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 2
-  name: "Patrícia Sampaio"
+  name: "Patrícia Maria Melo Sampaio"
   surname: ""
   company: "Universidade Federal do Amazonas"
   title: ""
-  bio: ""
+  bio: "Possui mestrado e doutorado em História (UFF/RJ) e Pós-Doutorado (UNICAMP). É Professor Associado IV do Departamento de História da Universidade Federal do Amazonas (UFAM). É líder do grupo de pesquisa História Indígena e da Escravidão Africana na Amazônia (HINDIA) e pesquisadora do Núcleo de Pesquisa em Política, Instituições e Práticas Sociais - POLIS. Participa do Mestrado de História (PPGH/ UFAM), do Mestrado/Doutorado em Sociedade e Cultura na Amazônia (PPGSCA/UFAM) e do Mestrado/Doutorado em História Social (UFPA)"
   thumbnailUrl: patricia.jpeg
   rockstar: true
- #   social: 
- #     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
-
 - 
   id: 3
   name: "Jaime Ricardo Teixeira Gouveia"
@@ -42,7 +38,7 @@
   rockstar: true
 - 
   id: 5
-  name: "Hilderaldo Lima da Costa"
+  name: "Hideraldo Lima da Costa"
   surname: ""
   company: "Universidade Federal do Amazonas"
   title: "Professor"
@@ -82,7 +78,7 @@
   surname: ""
   company: "IFAM"
   title: "Professora"
-  bio: ""
+  bio: "Possui graduação em História pela Universidade do Estado do Amazonas. Atualmente é professora de História do Ensino Básico, Técnico e Tecnológico do quadro efetivo do IFAM Campus São Gabriel da Cachoeira e Mestranda do Programa de Pós-graduação Strictu Sensu em Ensino Tecnológico do Instituto Federal do Amazonas (IFAM)"
   thumbnailUrl: leticia.jpg
   rockstar: true
 - 
@@ -91,7 +87,7 @@
   surname: ""
   company: "Uninorte"
   title: "Professora"
-  bio: "Nasthya Garcia possui graduação em HIstória pela Universidade Federal do Amazonas. É mestre em História Social pela mesma universidade. Suas áreas de interesse são: História Cultural e História Ambiental.  É professora de História na Semed desde 2000. De 2012 até o presente é professora do Uninorte ministrando no curso de História as disciplinas: História da América e História da África. Na mesma instituição é professora da Pós Graduação em Ensino e Pesquisa em História e ministra o módulo:  História e Natureza na Amazônia."
+  bio: "Graduada pela Universidade Federal do Amazonas. É Mestre em História Social pela mesma universidade. É professora da SEMED desde 2000 e de 2012 até o presente compõe o quadro de professores do Curso de História  e também da Especialização  em Ensino e Pesquisa em História do UNINORTE." 
   thumbnailUrl: nasthya.jpg
   rockstar: true
 - 
@@ -105,7 +101,7 @@
   rockstar: true
 - 
   id: 13
-  name: "Nonato Sousa"
+  name: "Raimunda Nonata Freitas de Sousa"
   surname: ""
   company: "Seduc"
   title: ""
@@ -123,12 +119,12 @@
   rockstar: true
 - 
   id: 15
-  name: "Cristiane Manique"
+  name: "Cristiane Manique Barreto"
   surname: ""
   company: "Uninorte"
   title: "Professora Mestre"
-  bio: "Formada em ciências sócias e direito,  especialização em historiografia e mestre em historia pela universidade federal do rio grande do,sul.
-    Profesora da Fsdb e Uninorte."
+  bio: "Possui graduação em Ciências Sociais pela Fundação Universidade Regional de Blumenau e Mestrado em História pela Universidade Federal do Rio Grande do Sul. Atualmente é professora do Centro Universitário do Norte e professora da Faculdade Salesiana Dom Bosco. Tem experiência na área de História e Ciências Sociais. "    
+  title: " Profesora da Fsdb e Uninorte."
   thumbnailUrl: cris.jpg
   rockstar: true
 - 
@@ -137,7 +133,7 @@
   surname: ""
   company: "UFAM"
   title: "Professor Doutor"
-  bio: ""
+  bio: "Possui graduação em Ciências Sociais  e Especialização em Sociologia pela Universidade Federal do Amazonas. É Mestre em Antropologia Social pela Universidade Federal do Rio Grande do Sul (2001) e Doutor em Ciência Política pela UFRGS/UFRR-NECAR. Atualmente é professor titular da UFAM. Tem experiência na área de antropologia, sociologia e ciência política, com ênfase em Antropologia e Ciência Política, atuando nos seguintes temas: cidade e fronteiras sociais, índios em contexto urbano, movimento indígena, políticas pública, território e territorialidades sociais, educação indígena, Estado e poder, cultura política."
   thumbnailUrl: lorem1.jpg
   rockstar: true
 - 
@@ -158,4 +154,13 @@
   title: "Professor Doutor"
   bio: "Graduado em História – UFAM. Mestre em História Social - UFF. Doutor em História Social - UFF. É professor da Universidade do Estado do Amazonas e do Programa de Pós-Graduação Interdisciplinar em Ciências Humanas (Mestrado) da Universidade do Estado do Amazonas."
   thumbnailUrl: rafael_ale.jpg
+  rockstar: true
+- 
+  id: 1
+  name: "Nilton Carlos da Silva Teixeira"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: lorem.jpg
   rockstar: true

@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "teste.jpg"
 heroTitle: " III Encontro ANPUH-AM <br><typeout> "
 eventDate: "17 e 18 de Novembro de 2016<br><br><br> <a href='mailton:anpuhamazonas@gmail.com'>anpuhamazonas@gmail.com</a>"
-typeoutTextValues: '"XIII semana da Consciência Negra ", "O Estado Democrático de direito e o Respeito a Diversidade"'
+typeoutTextValues: '"XIII Semana da Consciência Negra ", "O Estado Democrático de Direito e o Respeito a Diversidade"'
 typeoutFallback: "Season"
 heroButtons:
   #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -79,13 +79,13 @@ statisticBlock:
  - {count: "5", specialCharacter: "", info: "Oficinas em paralelo", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Professores"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -130,7 +130,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Inscrições"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -

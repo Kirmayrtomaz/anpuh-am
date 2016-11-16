@@ -43,7 +43,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Início"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/regimento.pdf", text: "Regimento das Eleições"}
  - {permalink: "/programacao/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
